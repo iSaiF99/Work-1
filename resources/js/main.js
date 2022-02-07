@@ -1,0 +1,1 @@
+function openMenu(){document.getElementById("pop-up-menu").style.width="100%"}function closeMenu(){document.getElementById("pop-up-menu").style.width="0"}(new WOW).init();var mixer=mixitup(".p-grid");
